@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Secrets: API keys and tokens
+.env
+
+# Audio recordings: real people's voices are not uploaded
+*.m4a
+*.mp3
+*.wav
+*.ogg
+*.opus
+data/
